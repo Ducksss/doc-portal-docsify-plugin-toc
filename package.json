@@ -31,6 +31,7 @@
 		"@semantic-release/release-notes-generator": "^12.1.0",
 		"@types/jest": "^29.5.1",
 		"babel-eslint": "^10.1.0",
+		"commitizen": "^4.3.0",
 		"concurrently": "^8.0.1",
 		"copy-webpack-plugin": "^11.0.0",
 		"eslint": "^8.16.0",
@@ -55,5 +56,10 @@
 	"bugs": {
 		"url": "https://github.com/sg-developer-portal/docsify-toc-plugin/issues"
 	},
-	"homepage": "https://github.com/sg-developer-portal/docsify-toc-plugin#readme"
+	"homepage": "https://github.com/sg-developer-portal/docsify-toc-plugin#readme",
+	"config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    }
 }
