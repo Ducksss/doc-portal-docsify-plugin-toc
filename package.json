@@ -1,9 +1,8 @@
 {
 	"name": "@developerportalsg/docsify-plugin-toc",
-	"version": "2.1.10",
+	"version": "2.1.9",
 	"description": "A docsify plugin to display ToC for each page",
 	"main": "src",
-	"private": true,
 	"unpkg": "dist/docsify-plugin-toc.min.js",
 	"files": [
 		"dist/",
@@ -54,7 +53,7 @@
 		"url": "git+https://github.com/sg-developer-portal/docsify-toc-plugin.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Ducksss/doc-portal-docsify-plugin-toc/issues"
+		"url": "https://github.com/sg-developer-portal/docsify-toc-plugin/issues"
 	},
-	"homepage": "https://github.com/Ducksss/doc-portal-docsify-plugin-toc#readme"
+	"homepage": "https://github.com/sg-developer-portal/docsify-toc-plugin#readme"
 }
