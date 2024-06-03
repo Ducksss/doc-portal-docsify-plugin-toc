@@ -1,7 +1,3 @@
-:root {
-	--docsifytabs-content-padding: 0.5rem;
-}
-
 aside.toc-container {
 	order: 2;
 	z-index: 20;
@@ -98,7 +94,7 @@ aside.toc-container.nothing {
 
 .markdown-section,
 .toc-container {
-	padding: var(--docsifytabs-content-padding) 2rem var(--docsifytabs-content-padding) var(--docsifytabs-content-padding);
+	padding: 0.5rem 2rem 0.5rem 0.5rem;
 }
 
 .markdown-section {
