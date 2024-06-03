@@ -94,7 +94,7 @@ aside.toc-container.nothing {
 
 .markdown-section,
 .toc-container {
-	padding: var(--docsifytabs-content-padding);
+	padding: 0.5rem 2rem 0.5rem 0.5rem;
 }
 
 .markdown-section {
