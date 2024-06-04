@@ -1,6 +1,6 @@
 {
 	"name": "@developerportalsg/docsify-plugin-toc",
-	"version": "2.1.9",
+	"version": "2.1.10",
 	"description": "A docsify plugin to display ToC for each page",
 	"main": "src",
 	"unpkg": "dist/docsify-plugin-toc.min.js",
@@ -58,8 +58,8 @@
 	},
 	"homepage": "https://github.com/sg-developer-portal/docsify-toc-plugin#readme",
 	"config": {
-        "commitizen": {
-            "path": "./node_modules/cz-conventional-changelog"
-        }
-    }
+		"commitizen": {
+			"path": "./node_modules/cz-conventional-changelog"
+		}
+	}
 }

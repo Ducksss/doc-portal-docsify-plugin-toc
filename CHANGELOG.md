@@ -1,3 +1,10 @@
+## [2.1.10](https://github.com/sg-developer-portal/docsify-toc-plugin/compare/v2.1.9...v2.1.10) (2024-06-04)
+
+
+### Bug Fixes
+
+* fake commit ([1c291e4](https://github.com/sg-developer-portal/docsify-toc-plugin/commit/1c291e49bf7c48266459b637b448d00edba4eee5))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
