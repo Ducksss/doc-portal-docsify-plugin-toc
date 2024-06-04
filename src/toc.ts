@@ -167,6 +167,7 @@ export function install(hook: any, vm: any) {
 			markdownSection?.classList.add("col", "is-9", "is-12-touch");
 			docMainContainer.setAttribute("style", "overflow-y: hidden;");
 
+			
 			if (isOnDocPortal) {
 				contentContainer.classList.add("margin--top");
 				docMainContainer.classList.add("margin--top--lg");
